@@ -1,4 +1,4 @@
-(defproject ash-mcc/friend-jaas "0.1.0"
+(defproject ash-mcc/friend-jaas "0.1.1"
   :description "Helps Chas Emerick's Friend library to use JAAS."
   :url "https://github.com/ash-mcc/friend-jaas"
   :author "Ashley McClenaghan"
