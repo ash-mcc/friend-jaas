@@ -24,7 +24,7 @@
   (html 
     [:body
      [:h1 "Demo Server"]
-     [:p "A webserver that demonstrates the use of the Friend-JAAS library to authenticate users via Kerberos."]
+     [:p "A webserver that demonstrates the use of the Friend-JAAS library to authenticate users against Kerberos."]
      [:ul
       [:li [:a {:href "super-only-page"} "super users only page"]]
       [:li [:a {:href "basic-only-page"} "basic users only page"]]
